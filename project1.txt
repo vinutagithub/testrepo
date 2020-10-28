@@ -1,4 +1,4 @@
-hello started prog.
+started with the calc prog.
 
 #line1 - before add
 
