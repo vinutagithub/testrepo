@@ -1,3 +1,14 @@
 hello started prog.
 
 #line1 - before add
+
+adding addition method
+
+writing testcase for addition method.
+------------------------------------------
+
+adding subtraction method
+
+writing testcase for subtraction method.
+------------------------------------------
+
